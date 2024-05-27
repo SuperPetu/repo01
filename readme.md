@@ -31,4 +31,4 @@ Aparece porque ahora sí que lo hemos configurado para que los pushes vayan al r
 1.9
 No he encontrado nada peculiar. El readme y las fotos se han subido con exito con la descripción del commit a la derecha y el tiempo que ha pasado desde que se ha hecho el push.
 
-hola
+lorem ipsum
